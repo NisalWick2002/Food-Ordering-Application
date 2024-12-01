@@ -15,7 +15,6 @@ This extensive project leverages the power of Node.js, Express, MongoDB, React, 
 - [Objectives](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#objectives-)
 - [Microservices and Endpoints](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#microservices-and-endpoints-)
 - [Contributions](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#contributions-)
-- [License](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#license-)
   
 ---
 
@@ -86,11 +85,5 @@ Tracks deliveries and assigns them to delivery personnel.
 We welcome contributions to improve this project!  
 - Submit issues or pull requests to suggest improvements or fix bugs.  
 - For major changes, open an issue to discuss your ideas before implementation.  
-
----
-
-## License 📜  
-
-This project is licensed under the [MIT License](LICENSE).  
 
 ---
