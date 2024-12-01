@@ -11,12 +11,12 @@ This extensive project leverages the power of Node.js, Express, MongoDB, React, 
 
 ## Table of Contents 📚  
 
-- [Overview](#overview-📋)  
-- [Objectives](#objectives-🎯)  
-- [Microservices and Endpoints](#microservices-and-endpoints-🔧)  
-- [Contributions](#contributions-✨)  
-- [License](#license-📜)  
 - [Overview](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#overview-)
+- [Overview](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#objectives-)
+- [Overview](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#microservices-and-endpoints-)
+- [Overview](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#contributions-)
+- [Overview](https://github.com/NisalWick2002/Food-Ordering-Application?tab=readme-ov-file#license-)
+  
 ---
 
 ## Overview 📋  
